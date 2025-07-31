@@ -6,4 +6,4 @@ tags = ['blog', 'aagmix', 'hugo', 'theme']
 features = ['search', 'rss', 'toc']
 [caches]
     [caches.images]
-        dir = ':cache/images'
+        dir = ':cacheDir/images'
