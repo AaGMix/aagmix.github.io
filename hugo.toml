@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'AaGMix - blog'
 theme = ["PaperMod"]
+tags = ['blog', 'aagmix', 'hugo', 'theme']
+features = ['search', 'rss', 'toc']
+
