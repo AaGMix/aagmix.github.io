@@ -4,4 +4,6 @@ title = 'AaGMix - blog'
 theme = ["PaperMod"]
 tags = ['blog', 'aagmix', 'hugo', 'theme']
 features = ['search', 'rss', 'toc']
-
+[caches]
+    [caches.images]
+        dir = ':cache/images'
